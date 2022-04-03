@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atif Noorul Hasan
 - 👀 I’m interested in Data Science specially Machine Learning Techniques
-- 🌱 I’m currently learning Types of Neural Networks 
+- 🌱 I’m currently learning Deep Learning - Neural Networks 
 - 📫 How to reach me : http://www.linkedin.com/in/atifnhasan
 
 <!---
