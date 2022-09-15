@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atif Noorul Hasan
-- 👀 I’m interested in Data Science specially Machine Learning Techniques
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Deep Learning - Neural Networks 
 - 📫 How to reach me : http://www.linkedin.com/in/atifnhasan, atifnhasan2@gmail.com
 
