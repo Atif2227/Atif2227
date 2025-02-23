@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atif Noorul Hasan
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Deep Learning - Neural Networks 
+- 🌱 I’m currently learning MSBI SSAS, SSRS and, SSIS 
 - 📫 How to reach me : http://www.linkedin.com/in/atifnhasan, atifnhasan2@gmail.com
 
 <!---
