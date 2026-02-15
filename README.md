@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Atif Noorul Hasan
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning MSBI SSAS, SSRS, and SSIS 
+I am a Healthcare Data Analyst (Operations & Training) at PHCC Qatar (Primary Health Care Corporation) with 11+ years of data analysis experience in healthcare, retail, pharmaceutical, aviation, logistics, workforce & training reporting, research & analytics, and data integration using Power BI, SQL, Azure Data Factory, and Azure SQL Database.
+Alongside my full-time role, I provide remote healthcare analytics (and all other types of analytics) and data integration consulting to organizations and individuals seeking optimized dashboards, automated reporting, and centralized data pipelines.
+
 - 📫 How to reach me: http://www.linkedin.com/in/atifnhasan, atifnhasan2@gmail.com
 
 <!---
