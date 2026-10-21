@@ -6,7 +6,7 @@ That's where I help.
 
 
 
-I'm a Microsoft Certified Data Modernization Consultant with 12 years of experience helping organizations transform fragmented data environments into scalable, cloud-based analytics platforms. My expertise spans enterprise data warehousing, Microsoft Fabric, ETL automation, Power BI, SQL, and Python, enabling organizations to replace manual reporting with automated, reliable, and decision-ready data solutions.
+I'm a Microsoft Fabric Data Modernization Consultant with 12 years of experience helping organizations transform fragmented data environments into scalable, cloud-based analytics platforms. My expertise spans enterprise data warehousing, Microsoft Fabric, ETL automation, Power BI, SQL, and Python, enabling organizations to replace manual reporting with automated, reliable, and decision-ready data solutions.
 
 
 
